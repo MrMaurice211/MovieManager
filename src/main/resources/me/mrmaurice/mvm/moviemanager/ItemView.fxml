@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onMouseClicked="#selectMedia" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="me.mrmaurice.mvm.moviemanager.controller.ItemController">
+   <ImageView fx:id="itemView" fitHeight="327.0" fitWidth="210.0" pickOnBounds="true" />
+</AnchorPane>
